@@ -1,5 +1,5 @@
 import "../styles/App.css";
-import Header from "./header.jsx";
+import Header from "./Header.jsx";
 import Entry from "./Entry.jsx";
 import entryData from "./EntryData.jsx";
 
