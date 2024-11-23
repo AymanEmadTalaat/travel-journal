@@ -1,6 +1,6 @@
-import JAPAN from "../assets/JAPAN.jpg";
-import AUSTRALIA from "../assets/AUSTRALIA.jpg";
-import NORWAY from "../assets/NORWAY.jpg";
+import JAPAN from "/JAPAN.jpg";
+import AUSTRALIA from "/AUSTRALIA.jpg";
+import NORWAY from "/NORWAY.jpg";
 
 const entryData = [
   {
