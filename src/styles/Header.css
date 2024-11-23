@@ -1,0 +1,23 @@
+.header {
+  width: 100%;
+  background-color: #f55a5a;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  padding-block: 1rem;
+}
+
+.header > img {
+  width: 22px;
+  height: 22px;
+}
+
+.header > h1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: -0.075em;
+}
