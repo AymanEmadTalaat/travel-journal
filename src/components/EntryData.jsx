@@ -1,11 +1,11 @@
-import JAPAN from "../assets/JAPAN.jpg";
-import AUSTRALIA from "../assets/AUSTRALIA.jpg";
-import NORWAY from "../assets/NORWAY.jpg";
+import japan from "/src/assets/japan.jpg";
+import australia from "/src/assets/australia.jpg";
+import norway from "/src/assets/norway.jpg";
 
 const entryData = [
   {
     id: 1,
-    locationImg: { JAPAN },
+    locationImg: { japan },
     country: "JAPAN",
     googleMapsLink:
       "https://www.google.com/maps/place/Mount+Fuji/@35.3606421,138.7170637,15z/data=!3m1!4b1!4m6!3m5!1s0x6019629a42fdc899:0xa6a1fcc916f3a4df!8m2!3d35.3606255!4d138.7273634!16zL20vMGNrczA?entry=ttu",
@@ -16,7 +16,7 @@ const entryData = [
   },
   {
     id: 2,
-    locationImg: { AUSTRALIA },
+    locationImg: { australia },
     country: "AUSTRALIA",
     googleMapsLink: "https://maps.app.goo.gl/Zr17SCrsJeCEKMd36",
     locationName: "Sydney Opera House",
@@ -26,7 +26,7 @@ const entryData = [
   },
   {
     id: 3,
-    locationImg: { NORWAY },
+    locationImg: { norway },
     country: "NORWAY",
     googleMapsLink: "https://maps.app.goo.gl/fhkJuBhmFDv47tiB7",
     locationName: "Geirangerfjord",

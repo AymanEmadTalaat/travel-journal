@@ -1,5 +1,5 @@
 import "../styles/Header.css";
-import globeImage from "../assets/Globe.png";
+import globeImage from "/src/assets/Globe.png";
 
 function Header() {
   return (

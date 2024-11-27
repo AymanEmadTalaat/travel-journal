@@ -1,5 +1,5 @@
 import "../styles/Entry.css";
-import locationLogo from "../assets/marker.png";
+import locationLogo from "/src/assets/marker.png";
 
 function Entry({
   id,
